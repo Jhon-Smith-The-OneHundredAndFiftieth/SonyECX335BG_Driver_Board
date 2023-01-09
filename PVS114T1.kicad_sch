@@ -5,8 +5,12 @@
   (paper "A0")
 
   (title_block
-    (title "PVS114T1_v17.sch")
+    (title "Sony ECX335BG driver board for rasbery pi.sch")
     (date "5 JAN 2023")
+    (comment 1 "for compatibility with rasbery pi")
+    (comment 2 "Modified version of https://github.com/aedancullen/sony-ecx")
+    (comment 3 "Lisence : GPL-3.0")
+    (comment 4 "gnu.org/licenses/gpl-3.0")
   )
 
   (lib_symbols
